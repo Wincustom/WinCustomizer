@@ -6,6 +6,6 @@ Versions below the latest version are no longer updated. You can use the update 
 
 ## Reporting a Vulnerability
 
-If you find a vulnerability, please report it in an issue. If it get's rejected, we will tell you in your issue.
+If you find a vulnerability, please report it in an issue. If we reject it, we will tell you in your issue.
 
-© Wincustom (MIT Liscense)
+© Wincustom (MIT License)
